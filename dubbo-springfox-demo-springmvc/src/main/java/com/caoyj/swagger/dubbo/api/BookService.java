@@ -1,7 +1,8 @@
-package io.hulk.dubbo.springfox.demo.springboot.api;
+package com.caoyj.swagger.dubbo.api;
 
-import io.hulk.dubbo.springfox.demo.springboot.model.Book;
-import io.hulk.dubbo.springfox.demo.springboot.model.User;
+
+import com.caoyj.swagger.dubbo.model.Book;
+import com.caoyj.swagger.dubbo.model.User;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiParam;
 

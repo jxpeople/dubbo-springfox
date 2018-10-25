@@ -1,6 +1,6 @@
-package io.hulk.dubbo.springfox.demo.springboot.web;
+package com.caoyj.swagger.dubbo.web;
 
-import io.hulk.dubbo.springfox.demo.springboot.model.Book;
+import com.caoyj.swagger.dubbo.model.Book;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.web.bind.annotation.*;
 import springfox.documentation.spi.annotations.RequestModel;
